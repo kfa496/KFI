@@ -1,4 +1,4 @@
 User-Agent: *
 Allow:
 
-Sitemap: https://kazifier.vercel.app/sitemap.xml
+Sitemap: https://kazifier.com/sitemap.xml
